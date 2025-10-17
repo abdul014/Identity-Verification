@@ -39,10 +39,6 @@ Setiap citra wajah diubah menjadi **embedding vektor**, dan hasilnya dibandingka
    - Jika *Average Distance (AD) ≤ Threshold* → **Verifikasi Berhasil (Match)** ✅  
    - Jika *Average Distance (AD) > Threshold* → **Verifikasi Gagal (Not Match)** ❌
 
-<p align="center">
-  <img src="https://github.com/abdul014/Identity-Verification/blob/main/21672791-d5f6-4183-9dcf-fda818960499.png?raw=true" width="600" alt="Mekanisme Threshold">
-</p>
-
 ---
 
 ## 💻 Tampilan Antarmuka (GUI)
@@ -53,7 +49,7 @@ Aplikasi prototipe dibuat menggunakan **Tkinter** dengan fitur utama:
 - Indikator threshold (warna & status)
 
 <p align="center">
-  <img src="https://github.com/abdul014/Identity-Verification/blob/main/47b10af6-7fbc-4a38-93cb-55101af72fd2.png?raw=true" width="600" alt="GUI FaceID">
+  <img src="https://github.com/abdul014/Identity-Verification/blob/main/Tampilan.jpg?raw=true" width="600" alt="GUI FaceID">
 </p>
 
 > 🎨 Tampilan antarmuka didesain sederhana namun informatif agar mudah digunakan untuk uji coba sistem identifikasi wajah.
