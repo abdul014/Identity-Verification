@@ -1,7 +1,7 @@
 <h1 align="center">🧠 FaceID — Aplikasi Verifikasi Identitas Berbasis MobileNetV2-Siamese</h1>
 
 <p align="center">
-  <img src="https://github.com/abdul014/Identity-Verification/blob/main/precision_recall.png?raw=true" width="650" alt="Model Precision Recall Graph">
+  <img src="https://github.com/abdul014/Identity-Verification/blob/main/Demo%20MobileNetV2%20with%20Siamese.gif?raw=true" width="650" alt="Model Precision Recall Graph">
 </p>
 
 <p align="center">
