@@ -80,7 +80,7 @@ Evaluasi dilakukan dengan metrik **accuracy**, **precision**, **recall**, dan **
 > Jika Anda ingin mencoba aplikasi versi penuh (dengan installer dan model asli), silakan hubungi pengembang melalui kontak di bawah ini.
 
 <p align="center">
-  <img src="https://github.com/abdul014/Identity-Verification/blob/main/e4173c80-06ce-401d-a4c0-b6d5b48edcf6.png?raw=true" width="550" alt="Installer Folder Screenshot">
+  <img src="https://github.com/abdul014/Identity-Verification/blob/main/Installer/Installer.jpg?raw=true" width="550" alt="Installer Folder Screenshot">
 </p>
 
 ---
