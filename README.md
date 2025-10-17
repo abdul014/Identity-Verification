@@ -24,7 +24,7 @@ Model yang digunakan adalah **Siamese Neural Network** dengan backbone **MobileN
 Setiap citra wajah diubah menjadi **embedding vektor**, dan hasilnya dibandingkan menggunakan fungsi jarak **L2 (Euclidean Distance)**.
 
 <p align="center">
-  <img src="https://github.com/abdul014/Identity-Verification/blob/main/60c9435c-0688-4f15-ad34-928f6e420042.png?raw=true" width="700" alt="Arsitektur Siamese Network">
+  <img src="https://github.com/abdul014/Identity-Verification/blob/main/MobileNetV2.png?raw=true" width="700" alt="Arsitektur Siamese Network">
 </p>
 
 > ⚙️ Output model berupa nilai distance yang dibandingkan terhadap threshold untuk menentukan kecocokan identitas.
