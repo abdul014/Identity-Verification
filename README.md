@@ -68,10 +68,6 @@ Evaluasi dilakukan dengan metrik **accuracy**, **precision**, **recall**, dan **
 - **Akurasi validasi:** 85.71%
 - **Loss:** 0.1308 (training), 0.6575 (validation)
 
-<p align="center">
-  <img src="https://github.com/abdul014/Identity-Verification/blob/main/precision_recall.png?raw=true" width="600" alt="Precision Recall Curve">
-</p>
-
 ---
 
 ## ⚙️ Informasi Installer dan Model
